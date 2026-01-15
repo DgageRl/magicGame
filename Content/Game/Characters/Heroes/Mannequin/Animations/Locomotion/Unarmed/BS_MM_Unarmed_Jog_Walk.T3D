@@ -1,0 +1,15 @@
+Begin Object Class=/Script/Engine.BlendSpace1D Name="BS_MM_Unarmed_Jog_Walk" ExportPath="/Script/Engine.BlendSpace1D'/Game/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/BS_MM_Unarmed_Jog_Walk.BS_MM_Unarmed_Jog_Walk'"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfo Name="SceneThumbnailInfo_0" ExportPath="/Script/UnrealEd.SceneThumbnailInfo'/Game/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/BS_MM_Unarmed_Jog_Walk.BS_MM_Unarmed_Jog_Walk:SceneThumbnailInfo_0'"
+   End Object
+   Begin Object Name="SceneThumbnailInfo_0" ExportPath="/Script/UnrealEd.SceneThumbnailInfo'/Game/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/BS_MM_Unarmed_Jog_Walk.BS_MM_Unarmed_Jog_Walk:SceneThumbnailInfo_0'"
+   End Object
+   bScaleAnimation=True
+   AnimLength=2.200000
+   SampleIndexWithMarkers=0
+   SampleData(0)=(Animation="/Script/Engine.AnimSequence'/Game/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MM_Unarmed_Jog_Fwd.MM_Unarmed_Jog_Fwd'",SampleValue=(X=400.000000,Y=0.000000,Z=0.000000))
+   SampleData(1)=(Animation="/Script/Engine.AnimSequence'/Game/Characters/Heroes/Mannequin/Animations/Locomotion/Unarmed/MM_Unarmed_Walk_Fwd.MM_Unarmed_Walk_Fwd'",SampleValue=(X=200.000000,Y=0.000000,Z=0.000000))
+   BlendSpaceData=(Segments=((SampleIndices[0]=1,SampleIndices[1]=0,Vertices[1]=1.000000)))
+   BlendParameters(0)=(DisplayName="Speed",Min=200.000000,Max=400.000000)
+   Skeleton="/Script/Engine.Skeleton'/Game/Characters/Heroes/Mannequin/Meshes/SK_Mannequin.SK_Mannequin'"
+   ThumbnailInfo="/Script/UnrealEd.SceneThumbnailInfo'SceneThumbnailInfo_0'"
+End Object

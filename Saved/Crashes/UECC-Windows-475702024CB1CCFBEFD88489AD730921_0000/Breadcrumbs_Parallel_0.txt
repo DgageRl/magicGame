@@ -1,0 +1,8 @@
+Breadcrumbs 'Parallel'
+ - BatchedLights
+ - DirectLighting
+ - Lights
+ - RenderDeferredLighting
+ - Scene
+ - FRDGBuilder::Execute
+ - Frame 540
