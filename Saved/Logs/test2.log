@@ -24586,3 +24586,24 @@ Script Stack (0 frames) :
 [2026.01.15-17.18.28:872][926]LogPlayLevel: Display: Destroying online subsystem :Context_64
 [2026.01.15-17.18.29:575][964]LogSlate: Window 'Message Log' being destroyed
 [2026.01.15-17.18.29:579][964]LogSlate: Window 'Message Log' being destroyed
+[2026.01.15-17.20.01:516][695]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SkeletalMesh_64.svg'. File could not be found
+[2026.01.15-17.20.06:359][979]LogSlate: Took 0.018193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2026.01.15-17.20.06:384][979]LogSlate: Took 0.023491 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NotoColorEmoji.ttf' (7610K)
+[2026.01.15-17.20.27:109][213]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5514.835449
+[2026.01.15-17.20.27:576][241]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.15-17.20.27:576][241]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5515.285645, Update Interval: 314.705658
+[2026.01.15-17.22.03:510][886]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.15-17.22.03:539][886]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/2L/I291BCZBVN9SSD7STK4TWB
+[2026.01.15-17.22.03:540][886]LogSavePackage: Moving '../../../../../../Users/gosha/Documents/GitHub/Test/Game/magicGame/Saved/I291BCZBVN9SSD7STK4TWB791136CA4E929EDE730DDAAB7C8503B6.tmp' to '../../../../../../Users/gosha/Documents/GitHub/Test/Game/magicGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/2L/I291BCZBVN9SSD7STK4TWB.uasset'
+[2026.01.15-17.22.03:543][886]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/G9/U4WRKNNDFFG0JK7KU71XTX
+[2026.01.15-17.22.03:543][886]LogSavePackage: Moving '../../../../../../Users/gosha/Documents/GitHub/Test/Game/magicGame/Saved/U4WRKNNDFFG0JK7KU71XTXCFB64DAD4BA10E807D5B39B2B0E62A43.tmp' to '../../../../../../Users/gosha/Documents/GitHub/Test/Game/magicGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/G9/U4WRKNNDFFG0JK7KU71XTX.uasset'
+[2026.01.15-17.22.03:553][886]LogFileHelpers: InternalPromptForCheckoutAndSave took 41.971 ms (total: 1.54 sec)
+[2026.01.15-17.22.03:581][886]LogContentValidation: Display: Starting to validate 2 assets
+[2026.01.15-17.22.03:581][886]LogContentValidation: Enabled validators:
+[2026.01.15-17.22.03:581][886]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.15-17.22.03:581][886]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.15-17.22.03:581][886]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.15-17.22.03:581][886]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.15-17.22.03:581][886]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.15-17.22.03:581][886]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.15-17.22.03:582][886]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validating asset
